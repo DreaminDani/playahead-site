@@ -9,8 +9,7 @@
       <a href="mailto:hello@playaheadgames.com">Contact</a>
     </h3>
     <p>
-      <a href="https://www.patreon.com/playaheadgames">Support us on Patreon</a>
-      for access to early game builds, a private Discord, and more!
+      An indie game production studio
     </p>
   </div>
   <div class="right">
