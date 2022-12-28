@@ -49,7 +49,7 @@ main {
   padding: 0.5em 0 0.55em;
   font-size: 1.5em;
   line-height: 1;
-  background: url("img-lg-horiz-border.png") repeat-x top right, url("img-lg-horiz-border.png") repeat-x bottom left;
+  background: url("/img-lg-horiz-border.png") repeat-x top right, url("/img-lg-horiz-border.png") repeat-x bottom left;
   background-size: 13em;
 }
 .left .contact a {
