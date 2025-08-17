@@ -33,7 +33,7 @@
     <Card
       href="https://playahead-games.itch.io/blackout"
       title="hunger"
-      content="In you nook, there is only darkness."
+      content="In your nook, there is only darkness."
       image="/hunger-card.png"
     />
   </div>
