@@ -13,23 +13,28 @@
   <div class="right">
     <h2>Games</h2>
     <Card
-      href="https://playahead-games.itch.io/blackout"
-      title="BLACKOUT"
-      content="You are a new arrival to a small town with grand plans to focus on your art. One day, you awaken to an unorthodox message on your screen. The world is ending! What will you do with your last week?"
-      image="/blackout-card.png"
-    />
-    <Card
       href="https://treasure.playaheadgames.com"
       title="Treasure Tracker"
-      content="A treasure generator for the popular tabletop RPG: Castles and
-      Crusades."
+      content="A treasure generator for the popular tabletop RPG: Castles and Crusades."
       image="https://treasure.playaheadgames.com/img/meta.png"
     />
     <Card
-      href="https://rtcrpg.playaheadgames.com"
-      title="RTCRPG (Working Title)"
-      content="A end-of-the-world dungeon crawler with real-time combat mechanics (Coming Soon)"
-      image="/rtc-screenshot.png"
+      href="https://playahead-games.itch.io/blackout"
+      title="BLACKOUT"
+      content="The world is ending! What will you do with your last week?"
+      image="/blackout-card.png"
+    />
+    <Card
+      href="https://playahead-games.itch.io/blackout"
+      title="metastasis"
+      content="The last days of your internship."
+      image="/metastasis-card.png"
+    />
+    <Card
+      href="https://playahead-games.itch.io/blackout"
+      title="hunger"
+      content="In you nook, there is only darkness."
+      image="/hunger-card.png"
     />
   </div>
 </main>
